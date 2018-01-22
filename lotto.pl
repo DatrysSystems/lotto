@@ -7,6 +7,7 @@
 # Copyright 2017
 #
 # generates n number of random euro millions lotto lines
+# where <n> passed in on cli
 #
 #--------------------------------------------------------
 
