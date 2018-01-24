@@ -6,6 +6,8 @@
 #
 # Copyright 2017
 #
+# mike.kelly@datrysystems.com
+#
 # generates n number of random euro millions lotto lines
 # where <n> passed in on cli
 #
